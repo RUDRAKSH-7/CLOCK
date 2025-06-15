@@ -8,9 +8,11 @@ This App is created totally in python using Customtkinter Library, for better GU
 3. Timer pause and stop functionality
 
 ## Dependencies : 
-> USES PYGAME MODULE FOR Timer SOUND <
-> USES CUSTOMTKINTER FOR GUI <
-> CUSTOMTKINTER USES TKINTER <
+> USES PYGAME MODULE FOR Timer SOUND
+
+> USES CUSTOMTKINTER FOR GUI
+
+> CUSTOMTKINTER USES TKINTER 
 
 # How to use :
 just extarct the Clock.zip file in a single folder. run the "gui.pyw" File
