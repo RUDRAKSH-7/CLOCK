@@ -6,7 +6,7 @@ This App is created totally in python using Customtkinter Library, for better GU
 1. Time display with seconds
 2. A Classy Timer which may come in handy! 😄
 3. Timer pause and stop functionality
-
+4. GUI like Google's Clock app (well, kinda)
 ## Dependencies : 
 > USES PYGAME MODULE FOR Timer SOUND
 
